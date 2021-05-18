@@ -3,5 +3,5 @@
 
 class MyClass
 {
-
+    public $name;
 }
