@@ -8,6 +8,7 @@ class MyClass
   public $camel;
   public  $snack_case;
   public $br1;
+  public $br2;
 
     /**
      * @return mixed
@@ -29,6 +30,21 @@ class MyClass
         return $this;
     }
 
+    public function getBr2()
+    {
+        return $this -> br2;
+    }
 
+    /**
+     * @param mixed $br2
+     *
+     * @return MyClass
+     */
+    public function setBr2($br2)
+    {
+        $this->br2 = $br2;
+
+        return $this;
+    }
 
 }
