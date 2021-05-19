@@ -4,5 +4,4 @@
 class MyClass
 {
     public $name;
-    public  $attrinut;
 }
