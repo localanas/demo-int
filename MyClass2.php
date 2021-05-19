@@ -24,7 +24,7 @@ class MyClass
      */
     public function setBr2($br2)
     {
-        $this -> br2 = $br2;
+        $this->br2 = $br2;
 
         return $this;
     }
