@@ -6,4 +6,5 @@ class MyClass
   public $name;
   public $toto;
   public $camel;
+  public  $snack_case;
 }
