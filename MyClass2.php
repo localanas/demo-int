@@ -8,7 +8,9 @@ class MyClass
   public $camel;
   public  $snack_case;
   public $br1;
-  public $br2;
+
+  public $br3;
+
 
     /**
      * @return mixed
