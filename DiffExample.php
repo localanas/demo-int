@@ -4,5 +4,6 @@
 class DiffExample
 {
     public $name;
-    public  $attrinut;
+    public $attrinut;
+    public $toto;
 }
