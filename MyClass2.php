@@ -48,5 +48,5 @@ class MyClass
 
         return $this;
     }
-
+   my Bad Commit
 }
