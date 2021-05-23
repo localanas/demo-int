@@ -6,9 +6,9 @@ class MyClass
   public $name;
   public $toto;
   public $camel;
-  public  $snack_case;
-  public $br1;
-
+  public $camelcaseIsPerfect;
+  public $br1isFirst;
+  
   public $br3;
   public $br5;
 
