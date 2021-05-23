@@ -10,6 +10,7 @@ class MyClass
   public $br1;
 
   public $br3;
+  public $br5;
 
 
     /**
@@ -48,5 +49,25 @@ class MyClass
 
         return $this;
     }
+
+    /**
+     * @return mixed
+     */
+    public function getBr5()
+    {
+        return $this -> br5;
+    }
+
+    /**
+     * @param mixed $br5
+     * @return MyClass
+     */
+    public function setBr5($br5)
+    {
+        $this -> br5 = $br5;
+
+        return $this;
+    }
+
 
 }
